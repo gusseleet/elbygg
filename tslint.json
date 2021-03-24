@@ -6,6 +6,6 @@
   "rules": {
     "prettier": true,
     "interface-name": false,
-    "typedef": [true, "call-signature"]
+    "typedef": [true, "call-signature", "variable-declaration"]
   }
 }
