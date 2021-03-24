@@ -1,0 +1,11 @@
+{
+  "extends": [],
+  "rulesDirectory": [
+    "tslint-plugin-prettier"
+  ],
+  "rules": {
+    "prettier": true,
+    "interface-name": false,
+    "typedef": [true, "call-signature", "variable-declaration"]
+  }
+}
